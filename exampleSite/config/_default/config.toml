@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "20"
 theme = "geeky-hugo"
-title = "Geeky | Hugo Personal Blog Template"
+title = "Mukund Kadu | Hugo Personal Blog Template"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
