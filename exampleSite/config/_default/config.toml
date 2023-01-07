@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "20"
-theme = "geeky-hugo"
+theme = "Mukund Kadu"
 title = "Mukund Kadu | Hugo Personal Blog Template"
 [caches.assets]
 dir = ":resourceDir/_gen"
