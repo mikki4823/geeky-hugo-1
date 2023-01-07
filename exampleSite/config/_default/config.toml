@@ -1,5 +1,5 @@
 baseURL = "https://mukundkadu4.netlify.app"
-disableLanguages = []
+disableLanguages = ["de"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 languageCode = "en-us"
