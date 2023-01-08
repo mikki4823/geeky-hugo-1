@@ -30,7 +30,7 @@ content = "Hacker, Website Developer, and successfully running Three Startups."
 enable = true
 image = "images/banner.png"
 title_large = "Hello !"
-title_small = "I am Mukund Kadu"
+title_small = "I'm Mukund Kadu"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
