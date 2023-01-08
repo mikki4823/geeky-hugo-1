@@ -59,7 +59,7 @@ link = "https://www.instagram.com/mikki_virus/"
 title = "instagram"
 [[social]]
 icon = "fab fa-github"
-link = "#"
+link = "https://github.com/mikkivirus-dev"
 title = "github"
 [[social]]
 icon = "fab fa-linkedin"
