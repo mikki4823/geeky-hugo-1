@@ -8,12 +8,12 @@ sections:
   label: Homepage
 - type: document
   path: exampleSite/content/english/_index.md
-  label: Homepage (en)
+  label: Homepage
 - type: heading
   label: Blog
 - type: document
   path: exampleSite/content/english/blog/_index.md
-  label: Blog Page (en)
+  label: Blog Page
 - type: directory
   path: exampleSite/content/english/blog
   label: Blog Post (en)
