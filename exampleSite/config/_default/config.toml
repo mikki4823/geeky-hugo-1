@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "20"
 theme = "Mukund Kadu"
-title = "Mukund Kadu | Hugo Personal Blog Template"
+title = "Mukund Kadu | Enterpreneur | Hacker "
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
