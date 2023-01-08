@@ -29,7 +29,7 @@ button_link = "about/"
 content = "Hacker, Website Developer, and successfully running Three Startups."
 enable = true
 image = "images/banner.png"
-title_large = "Hello**!**"
+title_large = "Hello !"
 title_small = "I am Mukund Kadu"
 [cookies]
 button = "I Accept"
