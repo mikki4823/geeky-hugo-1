@@ -47,7 +47,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
 icon = "fab fa-facebook"
-link = "#"
+link = "https://www.facebook.com/mukunda.kadu.5"
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
